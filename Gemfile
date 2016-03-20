@@ -20,7 +20,7 @@ gem 'rails', '4.2.5.1'
 
 
 
-gem 'sqlite3', group: [:development, :test]
+#gem 'sqlite3', group: [:development, :test]
 gem 'pg', group: [:production]
 
 
